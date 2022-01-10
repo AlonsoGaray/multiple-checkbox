@@ -27,7 +27,7 @@ Made by AlonsoGaray
 ## About The Project
 
 
-![alt text](https://raw.githubusercontent.com/AlonsoGaray/multiple-checkbox/main/src/images/Project.png)
+![alt text](https://raw.githubusercontent.com/AlonsoGaray/multiple-checkbox/images/Project.png)
 
 This exercise is to keep practicing Javascript. The goal that we needed to achieve was to mark all the checkboxes between two when holding shif.
 
